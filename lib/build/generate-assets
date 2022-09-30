@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+const { generateAssetsSync } = require('./tasks.js')
+
+generateAssetsSync({ verbose: true })

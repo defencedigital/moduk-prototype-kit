@@ -1,0 +1,10 @@
+{
+  "paths": {
+    "public": "public",
+    "cypress": "cypress",
+    "assets" : "app/assets",
+    "libAssets" : "lib/assets",
+    "nodeModules": "node_modules",
+    "lib": "lib"
+  }
+}
